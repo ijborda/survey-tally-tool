@@ -2,6 +2,8 @@
 
 Use [Survie](http://imarijoyborda.com/survey-tally-tool/) to assist researchers, data getherers/collectors, and students, in counting/tallying data during surveys.  
 
+My motivation: Back in the day, I gather data with pen and paper. This is difficult specially if the setting of the survey is populous (i.e., on the busy street, restaurant, or stations). I develop this tool so that gathering and tallying of data can be done using phones on the go. The also tool runs purely on client side, so privacy of data obtained is ensured.  
+
 Link to project:[http://imarijoyborda.com/survey-tally-tool/](http://imarijoyborda.com/survey-tally-tool/). 
 
 ![Screenshot of Site - 1](assets/readme/readme-1.png)
@@ -20,3 +22,5 @@ There are still lots that need to be improved in this web application. Some plan
 * Allow different starting value.
 
 Contributions are also very welcome! Just issue a pull request.
+
+## Thanks for checking it out!
