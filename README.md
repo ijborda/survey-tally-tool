@@ -1,4 +1,4 @@
-# Survie 
+# Survie | Survey More Efficiently
 
 Use [Survie](http://imarijoyborda.com/survie/) to assist researchers, data getherers/collectors, and students, in counting/tallying data during surveys.  
 
@@ -24,3 +24,7 @@ There are still lots that need to be improved in this web application. Some plan
 Contributions are also very welcome! Just issue a pull request.
 
 ## Thanks for checking it out!
+
+* [Codie | See your Codewars Stats at a Glance](https://github.com/ijborda/codie)
+* [Readability | Readability Test for Researchers](https://github.com/ijborda/readability)
+* [Astrie | See NASA APOD Beautifully](https://github.com/ijborda/astrie)
