@@ -12,7 +12,7 @@ Link to project:[http://imarijoyborda.com/survie/](http://imarijoyborda.com/surv
 Press `Increment` to count. Increment is by 1. Press `Save Results` to record current count in the DOM. After saving, current count will revert back to 0. Beware: Refreshing will erase the saved results.
 
 ## How It's Made
-Tech used: HTML, CSS, and JavaScript.
+Tech used: HTML, CSS, and JavaScript. <a href="https://www.flaticon.com/free-icons/survey" title="survey icons">Survey icons created by Flat Icons - Flaticon</a>
 
 ## Future Improvements
 There are still lots that need to be improved in this web application. Some plans are:
